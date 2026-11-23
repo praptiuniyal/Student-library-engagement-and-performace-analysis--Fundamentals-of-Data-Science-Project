@@ -32,5 +32,5 @@ The average number of library visits in the dataset is exactly 4 visits per week
 The program demonstrates basic data loading, missing-value checking, duplicate checking, summary statistics, mean, median, mode, standard deviation, IQR and outliers, probability, histogram, bar chart, scatter plot, correlation, covariance, sample and population mean, a simple manual t-test calculation, encoding, Min-Max scaling and simple linear regression using formulas.
 
 ## AI usage
-ChatGPT was used to generate the synthetic dataset and for help in organizing the project. The dataset is only for academic demonstration.
+AI was used to generate the synthetic dataset and for help in organizing the project. The dataset is only for academic demonstration.
 
